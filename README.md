@@ -1,9 +1,9 @@
 # Dron_FPV_freestyle
-// Las fuentes principales y secundarias de este proyecto han sido: 
-// - Brokking.net el enlace de la web es http://www.brokking.net/ymfc-al_main.html
-// - Arduproject.es
-// - El proyecto de: Design and implementation of a new quadcopter drone prototype controlled through STM32 using the Arduino environment de León Enrique Prieto Bailo.
-// - El proyecto de: Design and implementation of advanced location systems for quadrotor drones controlled by STM32 de Alejandro Boadella
+Las fuentes principales y secundarias de este proyecto han sido: 
+  - Brokking.net el enlace de la web es http://www.brokking.net/ymfc-al_main.html
+  - Arduproject.es
+  - El proyecto de: Design and implementation of a new quadcopter drone prototype controlled through STM32 using the Arduino environment de León Enrique Prieto Bailo.
+  - El proyecto de: Design and implementation of advanced location systems for quadrotor drones controlled by STM32 de Alejandro Boadella
 
 En este repositorio de GitHub encontrareis tres carpetas:
   - Primera Carpeta: Calibraciones y tests:
